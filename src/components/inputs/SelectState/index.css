@@ -1,0 +1,13 @@
+.state-select {
+  font-size: 16px;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 200px;
+  outline: none;
+  cursor: pointer;
+}
+
+.state-select option {
+  padding: 8px;
+}
